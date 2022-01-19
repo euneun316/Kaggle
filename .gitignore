@@ -80,6 +80,7 @@ target/
 # IPython
 profile_default/
 ipython_config.py
+for_commit_from_Colab.ipynb
 
 # pyenv
 .python-version
